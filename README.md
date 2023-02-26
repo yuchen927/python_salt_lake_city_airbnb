@@ -6,7 +6,7 @@
 
 
 ![Salt Lake City](https://visitutahkenticoprod.blob.core.windows.net/cmsroot/visitutah/media/site-assets/winter-photography/wasatch-metro/salt-lake-city/salt-lake-city_downtown-2_winter_visit-salt-lake_pulsipher-douglas_2007.jpg)
-<img src="https://github.com/favicon.ico](https://visitutahkenticoprod.blob.core.windows.net/cmsroot/visitutah/media/site-assets/winter-photography/wasatch-metro/salt-lake-city/salt-lake-city_downtown-2_winter_visit-salt-lake_pulsipher-douglas_2007.jpg" width="50">
+<img src="https://github.com/favicon.ico](https://visitutahkenticoprod.blob.core.windows.net/cmsroot/visitutah/media/site-assets/winter-photography/wasatch-metro/salt-lake-city/salt-lake-city_downtown-2_winter_visit-salt-lake_pulsipher-douglas_2007.jpg", width="50">
 
 
 
