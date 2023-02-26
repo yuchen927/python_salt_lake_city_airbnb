@@ -5,7 +5,7 @@
 ## About The Project
 
 
-![Salt Lake City](http://url/to/img.png](https://visitutahkenticoprod.blob.core.windows.net/cmsroot/visitutah/media/site-assets/winter-photography/wasatch-metro/salt-lake-city/salt-lake-city_downtown-2_winter_visit-salt-lake_pulsipher-douglas_2007.jpg)
+![Salt Lake City](https://visitutahkenticoprod.blob.core.windows.net/cmsroot/visitutah/media/site-assets/winter-photography/wasatch-metro/salt-lake-city/salt-lake-city_downtown-2_winter_visit-salt-lake_pulsipher-douglas_2007.jpg)
 
 
 Analyze Salt Lake City's airbnb data:
