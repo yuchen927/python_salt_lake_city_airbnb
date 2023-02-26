@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://visitutahkenticoprod.blob.core.windows.net/cmsroot/visitutah/media/site-assets/winter-photography/wasatch-metro/salt-lake-city/salt-lake-city_downtown-2_winter_visit-salt-lake_pulsipher-douglas_2007.jpg" width="1000">
+<img src="https://visitutahkenticoprod.blob.core.windows.net/cmsroot/visitutah/media/site-assets/winter-photography/wasatch-metro/salt-lake-city/salt-lake-city_downtown-2_winter_visit-salt-lake_pulsipher-douglas_2007.jpg" width="700">
 
 
 
